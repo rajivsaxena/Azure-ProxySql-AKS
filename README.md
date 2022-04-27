@@ -1,2 +1,2 @@
 # Azure-ProxySql-AKS
-Scaling workload using ProxySql and MySql read replica 
+running ProxySQL as a service in AKS using Azure Database for MySQL
